@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/istimetravelpossible/precache-manifest.8fb2b093bd6b9dad47092d2125ff0634.js"
+  "/istimetravelpossible/precache-manifest.49b4f1b059b043e53186d61ef54b55df.js"
 );
 
 workbox.clientsClaim();
