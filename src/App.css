@@ -4,7 +4,7 @@ div {
 @media screen and (min-width: 601px) {
   .heading {
     font-size: 60px;
-    height: 70%;
+    top: 30%;
     width: 100%;
     display: flex;
     position: fixed;
@@ -14,7 +14,7 @@ div {
 
   .notyet {
     font-size: 60px;
-    height: 100%;
+    top: 50%;
     width: 100%;
     display: flex;
     position: fixed;
@@ -24,7 +24,7 @@ div {
 
   .updated {
     font-size: 20px;
-    height: 150%;
+    top: 75%;
     width: 100%;
     display: flex;
     position: fixed;
@@ -44,7 +44,7 @@ div {
 @media screen and (max-width: 600px) {
   .heading {
     font-size: 30px;
-    height: 70%;
+    top: 30%;
     width: 100%;
     display: flex;
     position: fixed;
@@ -54,7 +54,7 @@ div {
 
   .notyet {
     font-size: 30px;
-    height: 100%;
+    top: 50%;
     width: 100%;
     display: flex;
     position: fixed;
@@ -64,7 +64,7 @@ div {
 
   .updated {
     font-size: 15px;
-    height: 130%;
+    top: 75%;
     width: 100%;
     display: flex;
     position: fixed;
