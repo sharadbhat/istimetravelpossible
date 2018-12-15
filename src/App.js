@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Heading from './Heading.js';
-import NotYet from './NotYet.js';
-import CurrentDate from './CurrentDate.js';
-import Credit from './Credit.js';
+import Heading from './Heading.jsx';
+import NotYet from './NotYet.jsx';
+import CurrentDate from './CurrentDate.jsx';
+import Credit from './Credit.jsx';
 import './App.css';
 
 class App extends Component {
